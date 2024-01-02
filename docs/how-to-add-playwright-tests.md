@@ -177,7 +177,7 @@ describe('The campers landing page', () => {
 
 ### 2. Run the Playwright Tests
 
-To run tests with Playwright check the following below
+To run tests with Playwright follow the below steps:
 
 - Make sure you navigate to the e2e repo first
 
